@@ -27,7 +27,6 @@ public class PruebaGit {
             JOptionPane.showMessageDialog(null, info);
         }
 
-        JOptionPane.showMessageDialog(null, "hola mundo");
     }
 
 }
